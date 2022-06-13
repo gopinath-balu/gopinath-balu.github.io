@@ -20,7 +20,7 @@ $card-bg-color: linear-gradient(
   rgb(255, 255, 255) 50%,
   rgb(255, 255, 255) 50%
 );
-$primary-color: #4f94d9;
+$primary-color: #ff0000;
 
 /* General */
 
@@ -769,7 +769,7 @@ a {
       clear: both;
       content: "";
       display: block;
-      z-index: 0;
+      z-index: -1;
     }
 
     .direction-l {
