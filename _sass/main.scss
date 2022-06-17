@@ -20,7 +20,7 @@ $card-bg-color: linear-gradient(
   rgb(255, 255, 255) 50%,
   rgb(255, 255, 255) 50%
 );
-$primary-color: #ffff00; //#4f94d9
+$primary-color: #4f94d9;
 
 /* General */
 
@@ -136,7 +136,6 @@ a {
   //   inset -2px -2px 4px rgba(99, 99, 99, 1);
   border: 1px solid #161718;
   box-shadow: none;
-  z-index: 10;
 }
 
 .neumorphism-card-big {
